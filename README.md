@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm snail-legs (also known as Alex), and I'm currently working on a little horror rpg in Godot 4!  
+I'm snail-legs (also known as Alex), and I'm currently working on a little rpg in Godot 4!  
 
 It's called NIGHTMARE_COMPLEX and it's about a nightmare shopping center.  I currently have some concept art for it on display [here](https://snail-legs.co.uk/the-gallery/), if you're interested in knowing more about it!
 
